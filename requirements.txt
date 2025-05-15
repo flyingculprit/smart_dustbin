@@ -1,0 +1,2 @@
+pip install opencv-python torch torchvision torchaudio numpy pandas playsound
+pip install torch torchvision opencv-python pygame
